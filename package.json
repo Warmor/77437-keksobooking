@@ -1,0 +1,24 @@
+{
+  "name": "keksobooking",
+  "version": "0.0.1",
+  "description": "educational project",
+  "main": "index.js",
+  "scripts": {
+    "test:lint": "eslint .",
+    "test": "npm run test:lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Warmor/77437-keksobooking.git"
+  },
+  "author": "Grishin Pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Warmor/77437-keksobooking/issues"
+  },
+  "homepage": "https://github.com/Warmor/77437-keksobooking#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-htmlacademy": "^0.4.2"
+  }
+}
