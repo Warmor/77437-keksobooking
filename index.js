@@ -1,8 +1,8 @@
-const VERSION_APP = 'v0.0.1';
-const AUTHOR_NAME = 'Павел Гришин';
+const VERSION_APP = `v0.0.1`;
+const AUTHOR_NAME = `Павел Гришин`;
 
 let getErrorMessage = function (val) {
-  return `Неизвестная команда: "${val}".\nЧтобы прочитать правила использования приложения, наберите "--help"`
+  return `Неизвестная команда: "${val}".\nЧтобы прочитать правила использования приложения, наберите "--help"`;
 };
 
 let messages = {
@@ -19,9 +19,10 @@ let getMessage = function (key) {
 };
 
 let showMessage = function (arrParams) {
-  let dataMessage = getMessage(arrParams[0] ? arrParams[0] : '');
+  let dataMessage = getMessage(arrParams[0] ? arrParams[0] : ``);
   console.log(dataMessage.message);
   process.exit(dataMessage.exitMode);
 
 };
+
 showMessage(process.argv.slice(2));
