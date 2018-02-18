@@ -2,6 +2,7 @@ const versionCommand = require(`./commands/version.js`);
 const authorCommand = require(`./commands/author.js`);
 const descriptionCommand = require(`./commands/description.js`);
 const licenseCommand = require(`./commands/license.js`);
+const generateCommand = require(`./commands/generate.js`);
 
 require(`colors`);
 
@@ -35,6 +36,7 @@ commandMap.set(versionCommand.name, versionCommand);
 commandMap.set(authorCommand.name, authorCommand);
 commandMap.set(descriptionCommand.name, descriptionCommand);
 commandMap.set(licenseCommand.name, licenseCommand);
+commandMap.set(generateCommand.name, generateCommand);
 
 const executeCommands = (commands) => {
   if (commands.length === 0) {
