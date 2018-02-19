@@ -1,10 +1,11 @@
+require(`colors`);
 const versionCommand = require(`./commands/version.js`);
 const authorCommand = require(`./commands/author.js`);
 const descriptionCommand = require(`./commands/description.js`);
 const licenseCommand = require(`./commands/license.js`);
 const generateCommand = require(`./commands/generate.js`);
 
-require(`colors`);
+const prompt = require(`./prompt.js`).prompt;
 
 const welcomeText = `Привет пользователь!\nЭта программа будет запускать сервер «Кексобукинг». Автор: ${authorCommand.value}.\nДля получения списка доступных команд наберите "--help"`;
 
@@ -41,14 +42,25 @@ commandMap.set(generateCommand.name, generateCommand);
 const executeCommands = (commands) => {
   if (commands.length === 0) {
     console.log(welcomeText);
-    process.exit(0);
+    prompt(`Хочешь данных? ${`(Y/n)`.green}`).then((res)=>{
+      if (res === `y` || res === `yes`) {
+        return generateCommand.execute();
+      }
+      return res;
+    }).then(()=>{
+      process.exit(0);
+    }).catch((error) => {
+      console.log(error);
+      process.exit(1);
+    });
   }
   commands.forEach((command) => {
     let commandItem = commandMap.get(command.slice(2));
     if (!commandItem) {
-      console.log(getErrorText(command));
-      helpCommand.execute();
-      process.exit(1);
+
+      // console.log(getErrorText(command));
+      // helpCommand.execute();
+      // process.exit(1);
     }
     commandItem.execute().then(()=>{
       process.exit(0);
