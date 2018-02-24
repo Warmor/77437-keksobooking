@@ -99,19 +99,20 @@ const executeCommands = (argv) => {
       console.log(error);
       process.exit(1);
     });
+  } else {
+    let commandItem = commandMap.get(argv[0].slice(2));
+    if (!commandItem) {
+      console.log(getErrorText(argv[0]));
+      helpCommand.execute();
+      process.exit(1);
+    }
+    commandItem.execute(argv[1]).then(() => {
+      process.exit(0);
+    }).catch((err) => {
+      console.error(err);
+      process.exit(1);
+    });
   }
-  let commandItem = commandMap.get(argv[0].slice(2));
-  if (!commandItem) {
-    console.log(getErrorText(argv[0]));
-    helpCommand.execute();
-    process.exit(1);
-  }
-  commandItem.execute(argv[1]).then(() => {
-    process.exit(0);
-  }).catch((err) => {
-    console.error(err);
-    process.exit(1);
-  });
 };
 
 
