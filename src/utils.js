@@ -4,5 +4,5 @@ const getRandomArrayItem = (arr) => arr[Math.floor(arr.length * Math.random())];
 
 module.exports = {
   getRandomNumber,
-  getRandomArrayItem
+  getRandomArrayItem,
 };

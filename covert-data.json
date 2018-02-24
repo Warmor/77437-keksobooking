@@ -1,0 +1,3091 @@
+[
+  {
+    "author": {
+      "avatar": "https://robohash.org/6sa3t36h"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "462, 428",
+      "price": 168679,
+      "type": "flat",
+      "rooms": 5,
+      "guests": 10,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 462,
+      "y": 428
+    },
+    "date": 1519315402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/nml7i38o"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "381, 373",
+      "price": 466727,
+      "type": "flat",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 381,
+      "y": 373
+    },
+    "date": 1518451402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/fza9ocxm"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "463, 290",
+      "price": 739152,
+      "type": "house",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 463,
+      "y": 290
+    },
+    "date": 1518797002942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/90pbbg90f"
+    },
+    "offer": {
+      "title": "Огромный прекрасный дворец",
+      "address": "475, 497",
+      "price": 663304,
+      "type": "palace",
+      "rooms": 4,
+      "guests": 4,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 475,
+      "y": 497
+    },
+    "date": 1517673802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/21j69kqf"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "373, 269",
+      "price": 911156,
+      "type": "bungalo",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 373,
+      "y": 269
+    },
+    "date": 1519401802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/48yhj1ud"
+    },
+    "offer": {
+      "title": "Маленькая неуютная квартира",
+      "address": "344, 449",
+      "price": 492618,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 1,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 344,
+      "y": 449
+    },
+    "date": 1519661002942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/onze264o"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "461, 415",
+      "price": 787967,
+      "type": "bungalo",
+      "rooms": 5,
+      "guests": 10,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 461,
+      "y": 415
+    },
+    "date": 1519574602942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/2nmnb0fd"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "803, 394",
+      "price": 569347,
+      "type": "bungalo",
+      "rooms": 4,
+      "guests": 4,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 803,
+      "y": 394
+    },
+    "date": 1517846602942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/xcnmuqrr"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "417, 393",
+      "price": 862903,
+      "type": "flat",
+      "rooms": 3,
+      "guests": 9,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "washer",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 417,
+      "y": 393
+    },
+    "date": 1517673802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/1sdq1x0uh"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "855, 392",
+      "price": 881417,
+      "type": "flat",
+      "rooms": 4,
+      "guests": 12,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 855,
+      "y": 392
+    },
+    "date": 1517501002942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/3eqqlx01"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "347, 354",
+      "price": 865317,
+      "type": "bungalo",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 347,
+      "y": 354
+    },
+    "date": 1518451402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/kxyn8aeu"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "875, 414",
+      "price": 757678,
+      "type": "palace",
+      "rooms": 5,
+      "guests": 10,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 875,
+      "y": 414
+    },
+    "date": 1517673802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/rf1uchmb"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "346, 169",
+      "price": 825815,
+      "type": "house",
+      "rooms": 4,
+      "guests": 4,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 346,
+      "y": 169
+    },
+    "date": 1517760202942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/56dhw5zy"
+    },
+    "offer": {
+      "title": "Огромный прекрасный дворец",
+      "address": "477, 241",
+      "price": 911619,
+      "type": "bungalo",
+      "rooms": 4,
+      "guests": 4,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 477,
+      "y": 241
+    },
+    "date": 1518278602942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/rnbtrb1q"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "460, 415",
+      "price": 407435,
+      "type": "palace",
+      "rooms": 3,
+      "guests": 6,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 460,
+      "y": 415
+    },
+    "date": 1518969802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/5brxek2y"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "372, 163",
+      "price": 974830,
+      "type": "flat",
+      "rooms": 1,
+      "guests": 1,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 372,
+      "y": 163
+    },
+    "date": 1519488202942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/ji4ks6ko"
+    },
+    "offer": {
+      "title": "Маленький ужасный дворец",
+      "address": "598, 322",
+      "price": 71734,
+      "type": "bungalo",
+      "rooms": 3,
+      "guests": 9,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 598,
+      "y": 322
+    },
+    "date": 1517501002942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/ats89kmr"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "643, 223",
+      "price": 89279,
+      "type": "house",
+      "rooms": 2,
+      "guests": 4,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "dishwasher",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 643,
+      "y": 223
+    },
+    "date": 1518537802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/vn7iohgz"
+    },
+    "offer": {
+      "title": "Маленький ужасный дворец",
+      "address": "485, 419",
+      "price": 42835,
+      "type": "flat",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 485,
+      "y": 419
+    },
+    "date": 1518537802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/09ph618hj"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "476, 407",
+      "price": 56741,
+      "type": "palace",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher",
+        "parking"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 476,
+      "y": 407
+    },
+    "date": 1518192202942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/0j2f97on"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "701, 414",
+      "price": 688015,
+      "type": "flat",
+      "rooms": 5,
+      "guests": 5,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 701,
+      "y": 414
+    },
+    "date": 1518969802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/0gxsgksu"
+    },
+    "offer": {
+      "title": "Маленький ужасный дворец",
+      "address": "768, 238",
+      "price": 679133,
+      "type": "house",
+      "rooms": 5,
+      "guests": 10,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 768,
+      "y": 238
+    },
+    "date": 1518105802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/nig6hbl3f"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "495, 358",
+      "price": 696696,
+      "type": "house",
+      "rooms": 4,
+      "guests": 12,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "parking",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 495,
+      "y": 358
+    },
+    "date": 1517846602942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/wgi32mt2"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "782, 443",
+      "price": 719656,
+      "type": "palace",
+      "rooms": 5,
+      "guests": 5,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 782,
+      "y": 443
+    },
+    "date": 1518797002942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/a3xm688p"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "660, 238",
+      "price": 927950,
+      "type": "flat",
+      "rooms": 2,
+      "guests": 6,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 660,
+      "y": 238
+    },
+    "date": 1519142602942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/1fab58bv"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "385, 310",
+      "price": 566727,
+      "type": "house",
+      "rooms": 2,
+      "guests": 4,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 385,
+      "y": 310
+    },
+    "date": 1517587402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/ytc3fdou"
+    },
+    "offer": {
+      "title": "Маленький ужасный дворец",
+      "address": "586, 446",
+      "price": 425448,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 3,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 586,
+      "y": 446
+    },
+    "date": 1517846602942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/yf3y7s7l"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "769, 221",
+      "price": 688156,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 3,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "washer",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 769,
+      "y": 221
+    },
+    "date": 1518105802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/60g1m3gh"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "803, 453",
+      "price": 991128,
+      "type": "flat",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 803,
+      "y": 453
+    },
+    "date": 1518105802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/3utlix88"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "848, 372",
+      "price": 606598,
+      "type": "palace",
+      "rooms": 5,
+      "guests": 10,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "washer",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 848,
+      "y": 372
+    },
+    "date": 1518883402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/1inmh5rxk"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "340, 248",
+      "price": 108690,
+      "type": "palace",
+      "rooms": 5,
+      "guests": 15,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 340,
+      "y": 248
+    },
+    "date": 1519747402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/4la6rsq6"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "666, 248",
+      "price": 859648,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 1,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 666,
+      "y": 248
+    },
+    "date": 1518278602942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/qvr7s0t9"
+    },
+    "offer": {
+      "title": "Маленькая неуютная квартира",
+      "address": "825, 365",
+      "price": 192240,
+      "type": "bungalo",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "washer",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 825,
+      "y": 365
+    },
+    "date": 1519315402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/l2tbwnes"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "322, 404",
+      "price": 273300,
+      "type": "house",
+      "rooms": 2,
+      "guests": 4,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 322,
+      "y": 404
+    },
+    "date": 1517760202942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/af90n8r3k"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "778, 448",
+      "price": 384455,
+      "type": "flat",
+      "rooms": 5,
+      "guests": 5,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 778,
+      "y": 448
+    },
+    "date": 1518537802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/tao72eow"
+    },
+    "offer": {
+      "title": "Маленькая неуютная квартира",
+      "address": "775, 354",
+      "price": 224350,
+      "type": "house",
+      "rooms": 5,
+      "guests": 10,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 775,
+      "y": 354
+    },
+    "date": 1518710602942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/niq2g42m"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "543, 189",
+      "price": 793485,
+      "type": "bungalo",
+      "rooms": 3,
+      "guests": 9,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "parking",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 543,
+      "y": 189
+    },
+    "date": 1518105802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/fyegh2bw"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "710, 179",
+      "price": 401225,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 710,
+      "y": 179
+    },
+    "date": 1519661002942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/3bwx4bwv"
+    },
+    "offer": {
+      "title": "Маленький ужасный дворец",
+      "address": "526, 325",
+      "price": 405187,
+      "type": "palace",
+      "rooms": 2,
+      "guests": 2,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 526,
+      "y": 325
+    },
+    "date": 1517933002942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/bc0nod08"
+    },
+    "offer": {
+      "title": "Маленькая неуютная квартира",
+      "address": "793, 499",
+      "price": 756340,
+      "type": "bungalo",
+      "rooms": 2,
+      "guests": 6,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 793,
+      "y": 499
+    },
+    "date": 1517673802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/wjvqm88bh"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "580, 462",
+      "price": 557646,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "parking",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 580,
+      "y": 462
+    },
+    "date": 1518537802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/tawmic2w"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "879, 195",
+      "price": 4076,
+      "type": "bungalo",
+      "rooms": 5,
+      "guests": 15,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 879,
+      "y": 195
+    },
+    "date": 1517587402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/hqan9qnr"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "837, 396",
+      "price": 619190,
+      "type": "palace",
+      "rooms": 4,
+      "guests": 4,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "washer",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 837,
+      "y": 396
+    },
+    "date": 1517933002942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/wxjmfca8"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "548, 301",
+      "price": 798361,
+      "type": "bungalo",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 548,
+      "y": 301
+    },
+    "date": 1518537802942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/ncqabshi"
+    },
+    "offer": {
+      "title": "Огромный прекрасный дворец",
+      "address": "772, 307",
+      "price": 187603,
+      "type": "flat",
+      "rooms": 1,
+      "guests": 1,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "parking",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 772,
+      "y": 307
+    },
+    "date": 1518883402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/rn74fczw"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "612, 205",
+      "price": 453966,
+      "type": "flat",
+      "rooms": 2,
+      "guests": 6,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "parking",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 612,
+      "y": 205
+    },
+    "date": 1518883402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/8fz60agu"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "820, 253",
+      "price": 796212,
+      "type": "house",
+      "rooms": 3,
+      "guests": 9,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 820,
+      "y": 253
+    },
+    "date": 1519142602942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/ttp2o8kg"
+    },
+    "offer": {
+      "title": "Маленькая неуютная квартира",
+      "address": "833, 281",
+      "price": 672381,
+      "type": "house",
+      "rooms": 3,
+      "guests": 6,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 833,
+      "y": 281
+    },
+    "date": 1518192202942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/idchbijv"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "799, 255",
+      "price": 496135,
+      "type": "house",
+      "rooms": 5,
+      "guests": 10,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 799,
+      "y": 255
+    },
+    "date": 1518624202942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/0w19b31yk"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "873, 498",
+      "price": 115361,
+      "type": "palace",
+      "rooms": 2,
+      "guests": 2,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "wifi",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 873,
+      "y": 498
+    },
+    "date": 1519747402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/r3v9m0vog"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "520, 418",
+      "price": 89333,
+      "type": "bungalo",
+      "rooms": 3,
+      "guests": 9,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 520,
+      "y": 418
+    },
+    "date": 1519229002942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/kzi8k6oj"
+    },
+    "offer": {
+      "title": "Огромный прекрасный дворец",
+      "address": "607, 241",
+      "price": 760068,
+      "type": "palace",
+      "rooms": 3,
+      "guests": 9,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "parking",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 607,
+      "y": 241
+    },
+    "date": 1517587402942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/0u0zsky9"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "612, 436",
+      "price": 140156,
+      "type": "bungalo",
+      "rooms": 3,
+      "guests": 6,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 612,
+      "y": 436
+    },
+    "date": 1517760202942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/jaxfoz48"
+    },
+    "offer": {
+      "title": "Маленькая неуютная квартира",
+      "address": "521, 345",
+      "price": 231408,
+      "type": "palace",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 521,
+      "y": 345
+    },
+    "date": 1518710602942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/o5gmeck8i"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "339, 295",
+      "price": 846705,
+      "type": "palace",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 339,
+      "y": 295
+    },
+    "date": 1519056202942
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/k98pm5l8"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "727, 198",
+      "price": 233145,
+      "type": "bungalo",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "washer",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 727,
+      "y": 198
+    },
+    "date": 1519661002943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/00f2rb1z"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "338, 370",
+      "price": 845146,
+      "type": "flat",
+      "rooms": 2,
+      "guests": 4,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 338,
+      "y": 370
+    },
+    "date": 1518624202943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/g5c8tqwa"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "406, 177",
+      "price": 148028,
+      "type": "palace",
+      "rooms": 4,
+      "guests": 4,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 406,
+      "y": 177
+    },
+    "date": 1518192202943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/zqzw2kgo"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "625, 476",
+      "price": 140534,
+      "type": "house",
+      "rooms": 5,
+      "guests": 15,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "wifi",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 625,
+      "y": 476
+    },
+    "date": 1519401802943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/9ox7aexrg"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "607, 257",
+      "price": 748840,
+      "type": "flat",
+      "rooms": 4,
+      "guests": 4,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 607,
+      "y": 257
+    },
+    "date": 1518710602943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/ip6q0fpd"
+    },
+    "offer": {
+      "title": "Маленький ужасный дворец",
+      "address": "622, 221",
+      "price": 499624,
+      "type": "flat",
+      "rooms": 2,
+      "guests": 2,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 622,
+      "y": 221
+    },
+    "date": 1519056202943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/xdb66cfr"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "549, 311",
+      "price": 998450,
+      "type": "house",
+      "rooms": 5,
+      "guests": 15,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 549,
+      "y": 311
+    },
+    "date": 1518019402943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/5r62kkjf"
+    },
+    "offer": {
+      "title": "Маленькая неуютная квартира",
+      "address": "525, 167",
+      "price": 472197,
+      "type": "house",
+      "rooms": 4,
+      "guests": 4,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 525,
+      "y": 167
+    },
+    "date": 1517760202943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/6wy94ohm"
+    },
+    "offer": {
+      "title": "Маленький ужасный дворец",
+      "address": "635, 445",
+      "price": 402006,
+      "type": "bungalo",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 635,
+      "y": 445
+    },
+    "date": 1518278602943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/uj8boygq"
+    },
+    "offer": {
+      "title": "Огромный прекрасный дворец",
+      "address": "898, 453",
+      "price": 930257,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 898,
+      "y": 453
+    },
+    "date": 1518278602943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/6fd8upt3"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "522, 284",
+      "price": 88686,
+      "type": "house",
+      "rooms": 2,
+      "guests": 4,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 522,
+      "y": 284
+    },
+    "date": 1518537802943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/7s3z0vg4"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "687, 394",
+      "price": 700240,
+      "type": "palace",
+      "rooms": 2,
+      "guests": 2,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 687,
+      "y": 394
+    },
+    "date": 1517501002943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/8jkplxd1"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "880, 301",
+      "price": 973436,
+      "type": "bungalo",
+      "rooms": 4,
+      "guests": 4,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 880,
+      "y": 301
+    },
+    "date": 1517587402943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/5wsha0uf"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "877, 324",
+      "price": 888514,
+      "type": "flat",
+      "rooms": 2,
+      "guests": 4,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 877,
+      "y": 324
+    },
+    "date": 1519142602943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/qjtl4f15k"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "595, 305",
+      "price": 922786,
+      "type": "house",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 595,
+      "y": 305
+    },
+    "date": 1518019402943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/xpnrw61j"
+    },
+    "offer": {
+      "title": "Огромный прекрасный дворец",
+      "address": "494, 376",
+      "price": 99624,
+      "type": "bungalo",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 494,
+      "y": 376
+    },
+    "date": 1519401802943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/io2xb4l6"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "451, 480",
+      "price": 867669,
+      "type": "bungalo",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "parking"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 451,
+      "y": 480
+    },
+    "date": 1517760202943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/e2i6f9p3"
+    },
+    "offer": {
+      "title": "Маленькая неуютная квартира",
+      "address": "332, 279",
+      "price": 23742,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 1,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "parking",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 332,
+      "y": 279
+    },
+    "date": 1518019402943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/2qyrjeh8"
+    },
+    "offer": {
+      "title": "Огромный прекрасный дворец",
+      "address": "330, 484",
+      "price": 222319,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 330,
+      "y": 484
+    },
+    "date": 1518192202943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/bvmuf43ag"
+    },
+    "offer": {
+      "title": "Огромный прекрасный дворец",
+      "address": "397, 424",
+      "price": 227940,
+      "type": "house",
+      "rooms": 1,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "parking",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 397,
+      "y": 424
+    },
+    "date": 1518710602943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/mp74hd7p"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "338, 346",
+      "price": 422676,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "parking",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 338,
+      "y": 346
+    },
+    "date": 1518365002943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/th90kd3k"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "786, 397",
+      "price": 171073,
+      "type": "palace",
+      "rooms": 3,
+      "guests": 9,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 786,
+      "y": 397
+    },
+    "date": 1518019402943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/h9q4ey2gj"
+    },
+    "offer": {
+      "title": "Маленький ужасный дворец",
+      "address": "550, 150",
+      "price": 534108,
+      "type": "flat",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 550,
+      "y": 150
+    },
+    "date": 1519488202943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/fehlufpp"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "829, 222",
+      "price": 528167,
+      "type": "bungalo",
+      "rooms": 4,
+      "guests": 4,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 829,
+      "y": 222
+    },
+    "date": 1517673802943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/ar0sf1sn"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "676, 250",
+      "price": 845246,
+      "type": "bungalo",
+      "rooms": 3,
+      "guests": 6,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 676,
+      "y": 250
+    },
+    "date": 1518883402943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/v14a10v7"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "449, 391",
+      "price": 248382,
+      "type": "bungalo",
+      "rooms": 2,
+      "guests": 4,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "washer",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 449,
+      "y": 391
+    },
+    "date": 1519142602943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/393kphml"
+    },
+    "offer": {
+      "title": "Неуютное бунгало по колено в воде",
+      "address": "392, 373",
+      "price": 686469,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 392,
+      "y": 373
+    },
+    "date": 1519833802943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/90yauf3a"
+    },
+    "offer": {
+      "title": "Красивый гостевой домик",
+      "address": "407, 189",
+      "price": 206602,
+      "type": "bungalo",
+      "rooms": 5,
+      "guests": 15,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 407,
+      "y": 189
+    },
+    "date": 1518883402943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/h3w4x67bf"
+    },
+    "offer": {
+      "title": "Некрасивый негостеприимный домик",
+      "address": "701, 438",
+      "price": 520072,
+      "type": "bungalo",
+      "rooms": 2,
+      "guests": 6,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "dishwasher"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 701,
+      "y": 438
+    },
+    "date": 1517760202943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/8m144xy7j"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "508, 454",
+      "price": 595901,
+      "type": "flat",
+      "rooms": 5,
+      "guests": 15,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 508,
+      "y": 454
+    },
+    "date": 1518969802943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/hvacgr72"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "389, 316",
+      "price": 472913,
+      "type": "bungalo",
+      "rooms": 5,
+      "guests": 5,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 389,
+      "y": 316
+    },
+    "date": 1517846602943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/fjn0nbzn"
+    },
+    "offer": {
+      "title": "Огромный прекрасный дворец",
+      "address": "636, 343",
+      "price": 634039,
+      "type": "palace",
+      "rooms": 4,
+      "guests": 12,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 636,
+      "y": 343
+    },
+    "date": 1517846602943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/xsqpzjeck"
+    },
+    "offer": {
+      "title": "Маленькая неуютная квартира",
+      "address": "747, 387",
+      "price": 504168,
+      "type": "flat",
+      "rooms": 4,
+      "guests": 12,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "washer",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 747,
+      "y": 387
+    },
+    "date": 1518710602943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/7fo3b0m6"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "352, 404",
+      "price": 940333,
+      "type": "bungalo",
+      "rooms": 1,
+      "guests": 3,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 352,
+      "y": 404
+    },
+    "date": 1518019402943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/4tyu8z94l"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "484, 226",
+      "price": 676084,
+      "type": "house",
+      "rooms": 5,
+      "guests": 10,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "washer",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 484,
+      "y": 226
+    },
+    "date": 1518365002943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/s4u5uf9j"
+    },
+    "offer": {
+      "title": "Маленький ужасный дворец",
+      "address": "365, 493",
+      "price": 818479,
+      "type": "flat",
+      "rooms": 4,
+      "guests": 12,
+      "checkin": "12:00",
+      "checkout": "12:00",
+      "features": [
+        "parking",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 365,
+      "y": 493
+    },
+    "date": 1518278602943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/w78i5dt7"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "323, 235",
+      "price": 372396,
+      "type": "palace",
+      "rooms": 2,
+      "guests": 6,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "dishwasher",
+        "parking",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 323,
+      "y": 235
+    },
+    "date": 1518624202943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/s8cjoxh2"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "811, 264",
+      "price": 440239,
+      "type": "flat",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 811,
+      "y": 264
+    },
+    "date": 1519401802943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/oki0n721"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "501, 312",
+      "price": 30998,
+      "type": "flat",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 501,
+      "y": 312
+    },
+    "date": 1518624202943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/3s47ixad"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "746, 167",
+      "price": 576186,
+      "type": "palace",
+      "rooms": 1,
+      "guests": 3,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "parking",
+        "washer"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 746,
+      "y": 167
+    },
+    "date": 1518105802943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/u35idxdc"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "402, 178",
+      "price": 859735,
+      "type": "house",
+      "rooms": 4,
+      "guests": 8,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 402,
+      "y": 178
+    },
+    "date": 1518537802943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/qcj1quwm"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "715, 429",
+      "price": 38148,
+      "type": "bungalo",
+      "rooms": 3,
+      "guests": 6,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "washer",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 715,
+      "y": 429
+    },
+    "date": 1518969802943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/pflr71oh"
+    },
+    "offer": {
+      "title": "Уютное бунгало далеко от моря",
+      "address": "581, 350",
+      "price": 567690,
+      "type": "palace",
+      "rooms": 5,
+      "guests": 10,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "parking",
+        "washer",
+        "conditioner"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 581,
+      "y": 350
+    },
+    "date": 1519315402943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/htq8yvhp"
+    },
+    "offer": {
+      "title": "Большая уютная квартира",
+      "address": "874, 393",
+      "price": 234057,
+      "type": "palace",
+      "rooms": 2,
+      "guests": 4,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "dishwasher",
+        "parking"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 874,
+      "y": 393
+    },
+    "date": 1517501002943
+  },
+  {
+    "author": {
+      "avatar": "https://robohash.org/5ngpfum7"
+    },
+    "offer": {
+      "title": "Маленький ужасный дворец",
+      "address": "422, 403",
+      "price": 247568,
+      "type": "bungalo",
+      "rooms": 3,
+      "guests": 9,
+      "checkin": "12:00",
+      "checkout": "14:00",
+      "features": [
+        "elevator"
+      ],
+      "description": "",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": 422,
+      "y": 403
+    },
+    "date": 1518624202943
+  }
+]

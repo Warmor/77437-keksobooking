@@ -34,6 +34,7 @@ const generateEntity = () => {
       x: location.x,
       y: location.y
     },
+    date: new Date().setDate(getRandomNumber(1, 28))
   };
 };
 
