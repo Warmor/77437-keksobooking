@@ -4,6 +4,7 @@ const authorCommand = require(`./commands/author.js`);
 const descriptionCommand = require(`./commands/description.js`);
 const licenseCommand = require(`./commands/license.js`);
 const generateCommand = require(`./commands/generate.js`);
+const serverCommand = require(`./commands/server.js`);
 const fs = require(`fs`);
 const util = require(`util`);
 const exists = util.promisify(fs.exists);
@@ -34,13 +35,15 @@ const helpCommand = {
   }
 };
 
-const commandMap = new Map();
-commandMap.set(helpCommand.name, helpCommand);
-commandMap.set(versionCommand.name, versionCommand);
-commandMap.set(authorCommand.name, authorCommand);
-commandMap.set(descriptionCommand.name, descriptionCommand);
-commandMap.set(licenseCommand.name, licenseCommand);
-commandMap.set(generateCommand.name, generateCommand);
+const commandMap = new Map([
+  [helpCommand.name, helpCommand],
+  [versionCommand.name, versionCommand],
+  [authorCommand.name, authorCommand],
+  [descriptionCommand.name, descriptionCommand],
+  [licenseCommand.name, licenseCommand],
+  [generateCommand.name, generateCommand],
+  [serverCommand.name, serverCommand],
+]);
 
 const checkExists = (filePath) => new Promise((resolve) => {
   return exists(`${process.cwd()}/${filePath}`).then((check) => {
@@ -82,40 +85,39 @@ const getParamsForGenerate = async () => {
   return paramsData;
 };
 
-const executeCommands = (commands) => {
-  if (commands.length === 0) {
+const executeCommands = (argv) => {
+  if (argv.length === 0) {
     console.log(welcomeText);
-    prompt(`Хочешь данных? ${`(Y/n)`.green}`).then(async (res)=>{
+    prompt(`Хочешь данных? ${`(Y/n)`.green}`).then(async (res) => {
       if (res.toLowerCase() === `y` || res === ``) {
         return generateCommand.execute(await getParamsForGenerate());
       }
       return res;
-    }).then(()=>{
+    }).then(() => {
       process.exit(0);
     }).catch((error) => {
       console.log(error);
       process.exit(1);
     });
-  }
-  commands.forEach((command) => {
-    let commandItem = commandMap.get(command.slice(2));
+  } else {
+    let commandItem = commandMap.get(argv[0].slice(2));
     if (!commandItem) {
-      console.log(getErrorText(command));
+      console.log(getErrorText(argv[0]));
       helpCommand.execute();
       process.exit(1);
     }
-    commandItem.execute().then(()=>{
+    commandItem.execute(argv[1]).then(() => {
       process.exit(0);
-    }).catch((err)=> {
+    }).catch((err) => {
       console.error(err);
       process.exit(1);
     });
-  });
+  }
 };
 
 
 module.exports = {
-  execute(commands) {
-    executeCommands(commands);
+  execute(argv) {
+    executeCommands(argv);
   }
 };
