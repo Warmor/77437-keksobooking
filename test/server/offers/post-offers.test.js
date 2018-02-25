@@ -1,7 +1,7 @@
 const request = require(`supertest`);
 const app = require(`${process.cwd()}/src/server/index`).serverInstance;
 
-describe(`GET /api/offers`, () => {
+describe(`POST /api/offers`, () => {
   it(`should consume JSON`, () => {
     return request(app).post(`/api/offers`).
         send({
