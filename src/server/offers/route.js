@@ -2,10 +2,14 @@ const {Router} = require(`express`);
 const multer = require(`multer`);
 const bodyParser = require(`body-parser`);
 const fs = require(`fs`);
+const {validateSchema} = require(`../util/validator`);
+const offerSchema = require(`./validation`);
+const ValidationError = require(`../error/validation-error`);
+
 
 const offersRouter = new Router();
-const upload = multer({storage: multer.memoryStorage()});
 offersRouter.use(bodyParser.json());
+const upload = multer({storage: multer.memoryStorage()});
 
 let offers = JSON.parse(fs.readFileSync(`${process.cwd()}/covert-data.json`));
 
@@ -45,19 +49,23 @@ offersRouter.get(``, (req, res) => {
 });
 
 offersRouter.post(``, upload.single(`avatar`), (req, res) => {
+  const data = req.body;
+  const errors = validateSchema(data, offerSchema);
+  if (errors.length > 0) {
+    console.log(errors);
+    throw new ValidationError(errors);
+  }
   res.send(req.body);
 });
 
 offersRouter.get(`/:date`, (req, res) => {
   const date = parseInt(req.params.date, 10);
   if (isNaN(date) || date.toString().length !== 13) {
-    res.status(400);
-    res.send({
+    res.status(400).send({
       error: `Bad request`,
       fieldName: `date params`,
       errorMessage: `date should be number and contains 13 characters`
-    });
-    res.end();
+    }).end();
     return false;
   }
   const offer = getOfferSingle(date);
@@ -73,13 +81,11 @@ offersRouter.get(`/:date`, (req, res) => {
 offersRouter.get(`/:date/avatar`, (req, res) => {
   const date = parseInt(req.params.date, 10);
   if (isNaN(date) || date.toString().length !== 13) {
-    res.status(400);
-    res.send({
+    res.status(400).send({
       error: `Bad request`,
       fieldName: `date params`,
       errorMessage: `date should be number and contains 13 characters`
-    });
-    res.end();
+    }).end();
     return false;
   }
   const avatar = getAuthorAvatar(date);
@@ -93,14 +99,19 @@ offersRouter.get(`/:date/avatar`, (req, res) => {
 });
 
 
-offersRouter.use((exception, req, res) => {
-  console.log(exception);
-  res.status(500);
-  res.send({
+offersRouter.use((exception, req, res, next) => {
+  let data = exception;
+  if (exception instanceof ValidationError) {
+    data = exception.errors;
+    res.status(400).send(data);
+    next();
+    return false;
+  }
+  res.status(500).send({
     error: `Internal Error`,
     errorMessage: `Server has fallen into unrecoverable problem.`
-  });
-  res.end();
+  }).end();
+  return false;
 });
 
 
