@@ -1,6 +1,8 @@
 const assert = require(`assert`);
 const request = require(`supertest`);
-const app = require(`${process.cwd()}/src/server/index`).serverInstance;
+const app = require(`express`)();
+const mockOffersRouter = require(`./mock-offers-router`);
+app.use(`/api/offers`, mockOffersRouter);
 
 describe(`GET /api/offers`, () => {
   const expectedDataLength = 4;

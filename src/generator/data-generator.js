@@ -15,6 +15,7 @@ const generateEntity = () => {
 
   return {
     author: {
+      name: getRandomArrayItem(constData.NAMES),
       avatar: `https://robohash.org/${(Math.random() + 1).toString(36).substring(4)}`
     },
     offer: {
