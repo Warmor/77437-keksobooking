@@ -50,6 +50,9 @@ const schema = {
   },
   features: {
     required: false,
+    converter(val) {
+      return typeof val === `string` ? val.split(`, `) : val;
+    },
     assertions: [
       anyOf(constData.FEATURES),
       unique()

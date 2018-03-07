@@ -1,3 +1,4 @@
+const NAMES = [`Keks`, `Pavel`, `Nikolay`, `Alex`, `Ulyana`, `Anastasyia`, `Julia`];
 const TITLES = [
   `Большая уютная квартира`,
   `Маленькая неуютная квартира`,
@@ -46,6 +47,7 @@ const Cords = {
 };
 
 module.exports = {
+  NAMES,
   TITLES,
   TYPES,
   TIMES,
