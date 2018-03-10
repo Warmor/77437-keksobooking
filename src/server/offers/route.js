@@ -10,10 +10,17 @@ const createStreamFromBuffer = require(`../util/buffer-to-stream`);
 const dataRenderer = require(`../util/data-renderer`);
 const asyncHelper = require(`../util/asyncHelper`);
 const decorator = require(`../util/decorator`);
+const logger = require(`./../../logger`);
 
 const offersRouter = new Router();
 offersRouter.use(bodyParser.json());
 const upload = multer({storage: multer.memoryStorage()});
+
+offersRouter.use((req, res, next) => {
+  res.header(`Access-Control-Allow-Origin`, `*`);
+  res.header(`Access-Control-Allow-Headers`, `Origin, X-Requested-With, Content-Type, Accept`);
+  next();
+});
 
 const toPage = async (cursor, skip = 0, limit = 20) => {
   return {
@@ -55,7 +62,6 @@ const saveOffer = asyncHelper(async (req, res) => {
     data.avatar = avatarInfo.path;
     data.avatarMimetype = avatarInfo.mimetype;
   }
-
   const response = await offersRouter.offersStore.save(data);
   res.send(decorator.toSend(response.ops[0]));
 });
@@ -71,7 +77,8 @@ const getOfferByDate = asyncHelper(async (req, res) => {
   if (!find) {
     throw new NotFoundError(`Offer with this date is not exist`);
   }
-  res.json(offers.find((it) => it.date === date));
+  const offer = offers.find((it) => it.date === date);
+  res.json(decorator.toSend(offer));
 });
 
 const getAvatar = asyncHelper(async (req, res) => {
@@ -115,7 +122,7 @@ offersRouter.use((exception, req, res, next) => {
     next();
     return false;
   }
-  console.log(exception);
+  logger.error(exception);
   res.status(500).send({
     error: `Internal Error`,
     errorMessage: `Server has fallen into unrecoverable problem.`

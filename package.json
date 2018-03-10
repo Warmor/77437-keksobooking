@@ -19,16 +19,18 @@
   },
   "homepage": "https://github.com/Warmor/77437-keksobooking#readme",
   "devDependencies": {
-    "colors": "^1.1.2",
-    "eslint": "^4.17.0",
-    "eslint-config-htmlacademy": "^0.4.2",
-    "mocha": "^5.0.0",
-    "supertest": "^3.0.0"
+    "colors": "1.1.2",
+    "eslint": "4.17.0",
+    "eslint-config-htmlacademy": "0.4.2",
+    "mocha": "5.0.0",
+    "supertest": "3.0.0"
   },
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "mongodb": "^3.0.3",
-    "multer": "^1.3.0"
+    "body-parser": "1.18.2",
+    "dotenv": "5.0.1",
+    "express": "4.16.2",
+    "mongodb": "3.0.3",
+    "multer": "1.3.0",
+    "winston": "^3.0.0-rc1"
   }
 }
