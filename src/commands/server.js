@@ -1,15 +1,11 @@
+require(`colors`);
 const server = require(`${process.cwd()}/src/server/index.js`);
-
+const prompt = require(`${process.cwd()}/src/prompt.js`).prompt;
 module.exports = {
   name: `server`,
   description: `Запустить сервер`,
-  execute(port) {
-    return new Promise((resolve, reject) => {
-      try {
-        server.run(port);
-      } catch (err) {
-        reject(err);
-      }
-    });
+  async execute() {
+    const port = await prompt(`Введите порт${`(по умолчанию - 3000)`.green} `);
+    return server.run(port);
   }
 };

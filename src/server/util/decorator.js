@@ -14,8 +14,24 @@ const _transformToLine = (data, structureData) => {
 const toSave = (data) => {
   const structureData = {};
   _transformToLine(data, structureData);
-  structureData.name = structureData.name || getRandomArrayItem(constData.NAMES);
-  return structureData;
+  return {
+    name: structureData.name || getRandomArrayItem(constData.NAMES),
+    avatar: structureData.avatar || null,
+    title: structureData.title || null,
+    description: structureData.description || null,
+    address: structureData.address || null,
+    price: structureData.price || null,
+    type: structureData.type || null,
+    rooms: structureData.rooms || null,
+    guests: structureData.guests || null,
+    checkin: structureData.checkin || null,
+    checkout: structureData.checkout || null,
+    features: structureData.features || null,
+    photos: structureData.photos || null,
+    x: structureData.x || null,
+    y: structureData.y || null,
+    date: structureData.date || null,
+  };
 };
 
 const toSend = (data) => ({

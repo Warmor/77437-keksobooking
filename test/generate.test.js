@@ -37,7 +37,6 @@ describe(`Generate JSON command`, function () {
         .then((generateData)=> generateData[0])
         .then((generateData) => {
           assert.ok(typeof generateData === `object`, `generateData should be object`);
-          assert.ok(generateData.author.avatar.indexOf(`https://robohash.org/`) !== -1, `author.avatar should be indexOf "https://robohash.org/"`);
           assert.ok(constData.TITLES.indexOf(generateData.offer.title) !== -1, `offer.title should be should be indexOf constData.TITLES`);
           assert.ok(typeof generateData.offer.address === `string`, `offer.address be string`);
           assert.ok(typeof generateData.offer.price === `number` && generateData.offer.price >= constData.Price.MIN && generateData.offer.price <= constData.Price.MAX, `offer.price should be > constData.Price.MIN & < constData.Price.MAX`);

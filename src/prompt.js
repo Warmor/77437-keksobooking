@@ -7,7 +7,7 @@ const rl = readline.createInterface({
 
 const prompt = (question) => new Promise((resolve) => {
   rl.question(`${question}: `, (ansver) => {
-    rl.pause();
+    // rl.pause();
     return resolve(ansver);
   });
 });
