@@ -4,11 +4,8 @@ const authorCommand = require(`./commands/author.js`);
 const descriptionCommand = require(`./commands/description.js`);
 const licenseCommand = require(`./commands/license.js`);
 const generateCommand = require(`./commands/generate.js`);
+const fillCommand = require(`./commands/fill.js`);
 const serverCommand = require(`./commands/server.js`);
-const fs = require(`fs`);
-const util = require(`util`);
-const exists = util.promisify(fs.exists);
-
 const prompt = require(`./prompt.js`).prompt;
 
 const welcomeText = `Привет пользователь!\nЭта программа будет запускать сервер «Кексобукинг». Автор: ${authorCommand.value}.\nДля получения списка доступных команд наберите "--help"`;
@@ -42,82 +39,39 @@ const commandMap = new Map([
   [descriptionCommand.name, descriptionCommand],
   [licenseCommand.name, licenseCommand],
   [generateCommand.name, generateCommand],
+  [fillCommand.name, fillCommand],
   [serverCommand.name, serverCommand],
 ]);
 
-const checkExists = (filePath) => new Promise((resolve) => {
-  return exists(`${process.cwd()}/${filePath}`).then((check) => {
-    if (check) {
-      return prompt(`Файл уже существует, перезаписать? ${`(Y/n)`.green}`).then((res) => {
-        if (res.toLowerCase() === `y` || res === ``) {
-          return resolve(filePath);
-        } else {
-          throw new Error(`Выхода нет`.red);
-        }
-      });
-    } else {
-      return resolve(filePath);
-    }
-  });
-});
-
-const pipes = [
-  async (paramsData) => {
-    let quality = await prompt(`Сколько данных хочешь?${`(number)`.green} `);
-    if (isNaN(quality)) {
-      throw new Error(`Это не число`.red);
-    }
-    paramsData.quality = quality;
-    return paramsData;
-  },
-  async (paramsData) => {
-    let filePath = await prompt(`Куда положить?${`(path or name)`.green} `);
-    paramsData.filePath = await checkExists(filePath);
-    return paramsData;
-  },
-];
-
-const getParamsForGenerate = async () => {
-  let paramsData = {};
-  for (const pipe of pipes) {
-    paramsData = await pipe(paramsData);
+const executeCommands = (command) => {
+  let commandItem = commandMap.get(command.slice(2));
+  if (!commandItem) {
+    console.log(getErrorText(command));
+    commandItem = helpCommand;
   }
-  return paramsData;
+  commandItem.execute().then(() => {
+    startReadLine();
+  });
 };
 
-const executeCommands = (argv) => {
-  if (argv.length === 0) {
-    console.log(welcomeText);
-    prompt(`Хочешь данных? ${`(Y/n)`.green}`).then(async (res) => {
-      if (res.toLowerCase() === `y` || res === ``) {
-        return generateCommand.execute(await getParamsForGenerate());
-      }
-      return res;
-    }).then(() => {
-      process.exit(0);
-    }).catch((error) => {
-      console.log(error);
-      process.exit(1);
-    });
-  } else {
-    let commandItem = commandMap.get(argv[0].slice(2));
-    if (!commandItem) {
-      console.log(getErrorText(argv[0]));
-      helpCommand.execute();
-      process.exit(1);
-    }
-    commandItem.execute(argv[1]).then(() => {
-      process.exit(0);
+const startReadLine = () => {
+  setImmediate(() => {
+    prompt(`Введите команду`.green).then((command) => {
+      executeCommands(command);
     }).catch((err) => {
       console.error(err);
-      process.exit(1);
+      startReadLine();
     });
-  }
+  });
 };
-
 
 module.exports = {
   execute(argv) {
-    executeCommands(argv);
+    if (argv.length === 0) {
+      console.log(welcomeText);
+      startReadLine();
+    } else {
+      executeCommands(argv[0]);
+    }
   }
 };

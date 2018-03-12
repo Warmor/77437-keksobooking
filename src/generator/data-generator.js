@@ -12,7 +12,10 @@ const generateEntity = () => {
     x: getRandomNumber(constData.Cords.X_MIN, constData.Cords.X_MAX),
     y: getRandomNumber(constData.Cords.Y_MIN, constData.Cords.Y_MAX),
   };
-
+  let date = new Date();
+  date.setDate(getRandomNumber(1, 28));
+  date.setHours(getRandomNumber(1, 23));
+  date.setMinutes(getRandomNumber(1, 59));
   return {
     author: {
       name: getRandomArrayItem(constData.NAMES),
@@ -35,7 +38,7 @@ const generateEntity = () => {
       x: location.x,
       y: location.y
     },
-    date: new Date().setDate(getRandomNumber(1, 28))
+    date: date.getTime()
   };
 };
 

@@ -1,3 +1,4 @@
+require(`colors`);
 const express = require(`express`);
 const logger = require(`./../logger`);
 const offersStore = require(`./offers/store`);
@@ -12,13 +13,13 @@ app.use(express.static(`static`));
 app.use(`/api/offers`, offersRouter);
 
 module.exports = {
-  run(port = PORT) {
-    app.listen(port, HOST, (err) => {
+  run(port) {
+    app.listen(port || PORT, HOST, (err) => {
       if (err) {
         throw new Error(err);
       }
       let serverAddress = `http://${HOST}:${port}`;
-      logger.info(`Server running at ${serverAddress}/`);
+      logger.info(`Server running at ${serverAddress}/`.cyan);
     });
   },
   serverInstance: app,
