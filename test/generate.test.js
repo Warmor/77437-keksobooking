@@ -8,22 +8,22 @@ const unlink = promisify(fs.unlink);
 const readFile = promisify(fs.readFile);
 const assert = require(`assert`);
 
-describe(`Generate JSON command`, function () {
-  it(`should fail on not existing folder`, function () {
+describe(`Generate JSON command`, () => {
+  it(`should fail on not existing folder`, () => {
     const filePath = `folder/testfile.json`;
     return generateCommand.execute({filePath}).then(() => {
       assert.fail(`Path ${filePath} should not be available`);
     }).catch((e) => assert.ok(e));
   });
 
-  it(`should create new file`, function () {
+  it(`should create new file`, () => {
     const filePath = `testfile.json`;
     return generateCommand.execute({filePath})
         .then(() => access(`${process.cwd()}/${filePath}`))
         .then(() => unlink(`${process.cwd()}/${filePath}`));
   });
 
-  it(`validate generate obj`, function () {
+  it(`validate generate obj`, () => {
     const filePath = `testfile.json`;
     const quality = 5;
     return generateCommand.execute({filePath, quality})
